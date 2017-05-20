@@ -33,6 +33,7 @@ run `mongod` in one terminal and `npm run start` in another terminal.
 
 Testing was done through `Postman`
 
+[Video](./"REST api.mp4")
 
 ### Improvement
 
